@@ -2,7 +2,7 @@
 > Next.js boilerplate with bootstrap and node-sass for rapidly developing projects with [next.js](https://github.com/zeit/next.js).
 
 ## Example
-[View online](https://easy-nextjs-eiflz3ok0.now.sh/)
+[View online](https://easy-nextjs.simonschweikert.com/)
 
 ## Get started
 ```bash
