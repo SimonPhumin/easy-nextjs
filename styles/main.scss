@@ -1,0 +1,16 @@
+//Bootstrap import
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+//common
+@import '/common/variables';
+@import '/common/global';
+
+//components
+@import '/components/fonts';
+
+//partials
+@import '/partials/header';
+@import '/partials/footer';
+
+//layouts
+@import '/layouts/index';
