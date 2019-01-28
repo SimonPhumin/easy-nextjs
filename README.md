@@ -15,7 +15,7 @@ Open `localhost:3000` in your browser to view your next.js app.
 
 ## Deployment
 
-You can deploy your next.js app with [next.js](https://github.com/zeit/now-cli).
+You can deploy your next.js app with [now-cli](https://github.com/zeit/now-cli).
 
 Simply type `now` in your terminal.
 
